@@ -64,7 +64,7 @@ Code for Kentuckiana is governed by a Steering Committee and is led by two steer
 <div class="bio">
 	<img src="/img/headshots/pat-smith.jpg" alt="Pat Smith">
 	<h5>Pat Smith</h5>
-	<p>Pat Smith is a certified planner and researcher working in the areas of community engagement, urban planning, public health, and social services. Check out some of his work at <a href="cityresearch.work">cityresearch.work</a> and follow him on Twitter at <a href="https://twitter.com/cityresearch">@cityresearch</a></p>
+	<p>Pat Smith is a certified planner and researcher working in the areas of community engagement, urban planning, public health, and social services. Check out some of his work at <a href="http://cityresearch.work">cityresearch.work</a> and follow him on Twitter at <a href="https://twitter.com/cityresearch">@cityresearch</a></p>
 </div>
 
 <div class="bio">
