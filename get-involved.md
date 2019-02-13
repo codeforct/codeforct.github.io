@@ -15,7 +15,7 @@ use-site-title: true
 
 <h3>Meetups</h3>
 <p>Our in person meetups will be posted on <a href="https://www.meetup.com/codeforkyana/">Meetup</a>. Please sign up to get notified of our events.</p>
-<iframe width="250" height="570" src="http://meetu.ps/3jQG92" frameborder="0"></iframe>
+<iframe width="250" height="570" src="https://meetu.ps/3jQG92" frameborder="0"></iframe>
 
 <h3>Code</h3>
 <p>GitHub is where we code collaboratively. Find us on GitHub at <a href="https://github.com/codeforkyana">https://github.com/codeforkyana</a></p>
