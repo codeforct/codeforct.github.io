@@ -37,12 +37,6 @@ Code for Kentuckiana is governed by a Steering Committee and is led by two steer
 </div>
 
 <div class="bio">
-	<img src="/img/headshots/alex-haynes.jpg" alt="Alexander Haynes">
-	<h5>Alexander Haynes</h5>
-	<p></p>
-</div>
-
-<div class="bio">
 	<img src="/img/headshots/loren-hill.jpg" alt="Loren Hill">
 	<h5>Loren Hill</h5>
 	<p>Loren is a Kentucky native who has lived in Louisville since 2010. She is a passionate believer in free and equitable access to information as a key component of social justice. She has spent her career serving at various nonprofits and is particularly interested in supporting families and individuals impacted by generational poverty.</p>
