@@ -44,12 +44,6 @@ Code for Kentuckiana is governed by a Steering Committee and is led by two steer
 </div>
 
 <div class="bio">
-	<img src="/img/headshots/rae-hodge.jpg" alt="Rae Hodge">
-	<h5>Rae Hodge</h5>
-	<p></p>
-</div>
-
-<div class="bio">
 	<img src="/img/headshots/dawn-howard.jpg" alt="Dawn Howard">
 	<h5>Dawn Howard</h5>
 	<p>Dawn Howard is a local CPA with her own practice – <a href="https://www.jdawnconsulting.com/">JDawn Consulting</a>. Born and raised in Kentucky, she has called Louisville home for the past 10 years. In addition to open data, she is also interested in criminal and social justice issues as well as knitting, craft beer, and bad television when she finds the time.</p>
