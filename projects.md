@@ -9,7 +9,7 @@ use-site-title: true
 
 <p><em>We always want to hear about projects that you want to work on with us. We are an organization that will be driven by our community, and we're here to help connect people and build impactful projects. Please come to our meetings to work on existing projects or to bring your own!</em></p>
 
-<p>We will follow Code for America's proven model for building services, which you can read about <a href="https://www.codeforamerica.org/how">at CodeForAmerica.org</a></p>.
+<p>We will follow Code for America's proven model for building services, which you can read about <a href="https://www.codeforamerica.org/how">at CodeForAmerica.org</a>.</p>
 
 <h2>Planned Projects</h2>
 
