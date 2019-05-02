@@ -50,12 +50,6 @@ Code for Kentuckiana is governed by a Steering Committee and is led by two steer
 </div>
 
 <div class="bio">
-	<img src="/img/headshots/pat-smith.jpg" alt="Pat Smith">
-	<h5>Pat Smith</h5>
-	<p>Pat Smith is a certified planner and researcher working in the areas of community engagement, urban planning, public health, and social services. Check out some of his work at <a href="http://cityresearch.work">cityresearch.work</a> and follow him on Twitter at <a href="https://twitter.com/cityresearch">@cityresearch</a></p>
-</div>
-
-<div class="bio">
 	<img src="/img/headshots/bret-walker.jpg" alt="Bret Walker">
 	<h5>Bret Walker</h5>
 	<p>Bret Walker is a software engineer. His interest in applying technology to inform and empower the public is the reason he launched Louie Watch, a site to aggregate disperate data sets to a block level, in 2013. That same year, he also became involved in Code for America through their brigade network. Bret has also served as a mentor at <a href="https://codelouisville.org">Code Louisville</a>.</p>
