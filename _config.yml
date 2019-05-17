@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://codeforkentuckiana.org"
+url: "https://codeforconnecticut.org"
 #baseurl: "/"
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ url: "https://codeforkentuckiana.org"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Code for Kentuckiana
+title: Code for 
 
 # Short description of your site
 description: Louisville's Code for America Brigade
@@ -65,7 +65,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Code for Kentuckiana
+  name: Code for Connecticut
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "CodeForKentuckiana.org"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "CodeForConnecticut.org"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 

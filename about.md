@@ -1,22 +1,22 @@
 ---
 layout: page
-title: About Code for Kentuckiana
+title: About Code for Connecticut
 subtitle: 
 ---
 
-Code for Kentuckiana is the official <a href="https://brigade.codeforamerica.org/about">Code for America Brigade</a> for Louisville, Ky. Currently, there are 70+ Brigades across the United States, bringing together community organizers, developers, and designers to use technology to improve the lives of citizens.
+Code for Connecticut is the official <a href="https://brigade.codeforamerica.org/about">Code for America Brigade</a> for Louisville, Ky. Currently, there are 70+ Brigades across the United States, bringing together community organizers, developers, and designers to use technology to improve the lives of citizens.
 
 Our mission is to <em>organize and advocate for the use of public data and technology to make Louisville and Southern Indiana a more safe, resilient, and equitable place.</em>
 
 <h2>Leadership</h2>
-Code for Kentuckiana is governed by a Steering Committee and is led by two steering committee members who have been elected co-captains.
+Code for Connecticut is governed by a Steering Committee and is led by two steering committee members who have been elected co-captains.
 
 <h3>Co-captains</h3>
-<h5><a href="mailto:captains@codeforkentuckiana.org">captains@codeforkentuckiana.org</a></h5>
+<h5><a href="mailto:captains@codeforConnecticut.org">captains@codeforConnecticut.org</a></h5>
 <div class="bio">
 	<img src="/img/headshots/robert-kahne.jpg" alt="Robert Kahne">
 	<h5>Robert Kahne</h5>
-	<p>Robert Kahne is a native Louisvillian who works for Splash Analytics. He has been active in civic technology for several years and is passionate about the intersection of technology and government. As a data scientist and holder of a degree in public policy from the University of Kentucky’s Martin School, Code for Kentuckiana gives Robert the chance to put two of his favorite subjects together.</p>
+	<p>Robert Kahne is a native Louisvillian who works for Splash Analytics. He has been active in civic technology for several years and is passionate about the intersection of technology and government. As a data scientist and holder of a degree in public policy from the University of Kentucky’s Martin School, Code for Connecticut gives Robert the chance to put two of his favorite subjects together.</p>
 	<p>In addition to CFK, Robert also serves on the board of <a href="https://www.hcmlouisville.org/">Highland Community Ministries</a> and is active at <a href="https://hbclouisville.org/">Highland Baptist Church</a>. You can also hear him on his podcast about Kentucky government and politics, <a href="https://myoldkentuckypodcast.podbean.com/">My Old Kentucky Podcast</a>!</p>
 </div>
 
