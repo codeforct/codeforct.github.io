@@ -12,7 +12,7 @@ use-site-title: true
 
 <h3>Meetups</h3>
 <p>Our in person meetups will be posted on <a href="https://www.meetup.com/codeforct/">Meetup</a>. Please sign up to get notified of our events.</p>
-<iframe width="250" height="570" src="http://meetu.ps/4bGXF/" frameborder="0" style="margin-bottom: -200px"></iframe>
+<iframe width="250" height="570" src="http://meetu.ps/c/4bGXF/GNSZF/f" frameborder="0" style="margin-bottom: -200px"></iframe>
 
 <h3>Code</h3>
 <p>GitHub is where we code collaboratively. Find us on GitHub at <a href="https://github.com/codeforct">https://github.com/codeforct</a></p>
