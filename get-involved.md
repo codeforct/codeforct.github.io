@@ -15,7 +15,7 @@ use-site-title: true
 
 <h3>Meetups</h3>
 <p>Our in person meetups will be posted on <a href="https://www.meetup.com/Tech-Talent-South-Hartford">Meetup</a>. Please sign up to get notified of our events.</p>
-<iframe width="250" height="50" src="https://www.meetup.com/Tech-Talent-South-Hartford" frameborder="0" scrolling="no" style="margin-bottom: -200px"></iframe>
+<iframe width="250" height="480" src="https://www.meetup.com/Tech-Talent-South-Hartford" frameborder="0" scrolling="no" style="margin-bottom: -200px"></iframe>
 
 <h3>Code</h3>
 <p>GitHub is where we code collaboratively. Find us on GitHub at <a href="https://github.com/codeforct">https://github.com/codeforct</a></p>
