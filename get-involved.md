@@ -14,8 +14,8 @@ use-site-title: true
 <h2>Ways to connect</h2>
 
 <h3>Meetups</h3>
-<p>Our in person meetups will be posted on <a href="https://www.meetup.com/codeforct/">Meetup</a>. Please sign up to get notified of our events.</p>
-<iframe width="250" height="570" src="https://www.meetup.com/Tech-Talent-South-Hartford/" frameborder="0" style="margin-bottom: -200px"></iframe>
+<p>Our in person meetups will be posted on <a href="https://www.meetup.com/Tech-Talent-South-Hartford">Meetup</a>. Please sign up to get notified of our events.</p>
+<iframe width="250" height="50" src="https://www.meetup.com/Tech-Talent-South-Hartford" frameborder="0" scrolling="no" style="margin-bottom: -200px"></iframe>
 
 <h3>Code</h3>
 <p>GitHub is where we code collaboratively. Find us on GitHub at <a href="https://github.com/codeforct">https://github.com/codeforct</a></p>
