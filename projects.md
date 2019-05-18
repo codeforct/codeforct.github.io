@@ -9,38 +9,24 @@ use-site-title: true
 
 <p><em>We always want to hear about projects that you want to work on with us. We are an organization that will be driven by our community, and we're here to help connect people and build impactful projects. Please come to our meetings to work on existing projects or to bring your own!</em></p>
 
-<p>We will follow Code for America's proven model for building services, which you can read about <a href="https://www.codeforamerica.org/how">at CodeForAmerica.org</a>.</p>
+<p>We will follow Code for America's proven model for building services, which you can read about at <a href="https://www.codeforamerica.org/how">CodeForAmerica.org</a>.</p>
 
 <h2>Planned Projects</h2>
 
-<h3>Renters' Rights</h3>
-<h5>Potential Partners</h5>
-<a href="https://www.kyequaljustice.org">Kentucky Equal Justice Center</a><br>
-<a href="http://www.metropolitanhousing.org">Metropolitan Housing Coalition</a>
-<h5>Potential Seed Project</h5>
-<a href="https://github.com/codeforsanjose/renters-rights">Code for San Jose's renters-rights app</a>
-<p>In our conversations with lawyers and those working in the housing space, we have heard that there is a need for a tool that will help increase renters' knowledge of their right as well as generate documentation and correspondence to their landlords. We would like to work with Kentucky Equal Justice Center and Metropolitan Housing Coalition to build a tool that they could help get in the hands of renters.</p>
+<h3>Clean Up App</h3>
+<h5>Potential Partner</h5>
+<a href="https://www.ctriver.org/our-work/source-to-sea-cleanup">Connecticut River Conservancy </a><br>
+<h5>Seed Project</h5>
+<a href="http://www.codeforbtv.org/blog/official-green-day-mobile-app">Code For BTV's Green Up app</a> and <a href="https://github.com/codeforbtv/green-up-app">Code For BTV's Green Up Administrator Dashboard</a>
+<p>
+The Source to Sea Cleanup is a yearly trash cleanup of the Connecticut River system all along the four-state watershed (NH, VT, MA, CT) – rivers & streams, shorelines, parks, boat launches, trails and more. Each fall, volunteer group leaders coordinate local cleanup sites where thousands of participants of all ages and abilities spend a few hours picking up trash. We all have a responsibility to solve this trash problem – individuals, manufacturers, businesses, and government. By participating in the Source to Sea Cleanup, you are part of the solution for cleaner rivers.
+</p>
+<p>The app will focus primarily on bringing people together, such as groups of friends or business employees who can coordinate their group clean ups. It will also enable users to pin where they are dropping their full trash bags, and to see where bags have already been dropped, potentially creating less overlap on areas that have already been cleaned.</p>
 <h5>Skills Needed</h5>
 <ul>
-	<li>Product Management</li>
-	<li>Project Management</li>
-	<li>Law</li>
-	<li>Public Policy</li>
-	<li>Design</li>
-	<li>Copywriting</li>
-	<li>Web Development</li>
-</ul>
-
-<h3>Teacher Exchange</h3>
-<h5>Potential Partners</h5>
-<a href="https://www.facebook.com/ky120united/">KY 120 United</a>
-<p>We have had conversations with teachers about the need for a website to allow educators to swap materials, lesson plans, and other resources.</p>
-<h5>Skills Needed</h5>
-<ul>
-	<li>Product Management</li>
 	<li>Project Management</li>
 	<li>Design</li>
-	<li>Copywriting</li>
 	<li>Web Development</li>
+	<li>Mobile App Development</li>
 </ul>
 </div>

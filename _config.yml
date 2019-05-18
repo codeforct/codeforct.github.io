@@ -14,10 +14,10 @@ url: "https://codeforconnecticut.org"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Code for 
+title: Code for Connecticut
 
 # Short description of your site
-description: Louisville's Code for America Brigade
+description: Connecticut's Code for America Brigade
 
 # --- Navigation bar options --- #
 
@@ -70,30 +70,29 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  #email: "someone@example.com"
-  facebook: CodeForKYana
-  github: CodeForKYana
-  twitter: CodeForKYana
-  instagram: CodeForKYana
+  email: "codeforct@gmail.com"
+#  facebook: yourname
+  github: CodeForCT
+#  twitter: yourname
+#  instagram: yourname
 #  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
+#  linkedin: yourname
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  youtube: user/deanat78
+#  stackoverflow: "1234567/yourname"
+#  snapchat: yourname
+#  youtube: user/yourname
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: +15551234567
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -105,7 +104,7 @@ url-pretty: "CodeForConnecticut.org"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-134420533-1"
+# google_analytics: "UA-123456789-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -154,7 +153,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Louisville"
+timezone: "America/Hartford"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
