@@ -15,5 +15,5 @@ Currently, there are 70+ Brigades across the United States, bringing together co
 <div class="bio">
 	<img src="/img/headshots/jonathan-payne.jpg" alt="Jonathan Payne">
 	<h5>Jonathan Payne</h5>
-	<p>"As a Connecticut native I'm excited to be founder and captain of Code For Connecticut. A recent graduate of Burlington Code Academy, I experienced firsthand the vibrancy of the growing tech hub in Burlington, Vermont, where I began volunteering with Code For BTV. I'm inspired by their enhtusiasm and commitment to make the world a better place, which is the hallmark of the Code For America brigade. I will work every day to bring that same spirit to Code For Connecticut."</p>
+	<p>"As a Connecticut native I'm excited to be founder and captain of Code For Connecticut. A recent graduate of Burlington Code Academy, I experienced firsthand the vibrancy of the growing tech hub in Burlington, Vermont, where I began volunteering with Code For BTV. I'm inspired by their enthusiasm and commitment to make the world a better place, which is the hallmark of the Code For America brigade. I will work every day to bring that same spirit to Code For Connecticut."</p>
 	</div>
