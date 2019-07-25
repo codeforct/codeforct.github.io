@@ -14,7 +14,7 @@ use-site-title: true
 <h2>Ways to connect</h2>
 
 <h3>Slack</h3>
-Join us on our [Slack channel](https://join.slack.com/t/codeforct/shared_invite/enQtNjkyMDMwMTg5NzQ3LTAxMmVjZDUzZTA0M2I5MDBiZTExNTI1OGJiYzdmZTg5MmE4NDU0NDRhOTZiYWU4ZDVjMzg2ODYyZjNjNTk0ODc)! General discussion, questions, project chatter, and direct messaging.
+Join us on our <a href="https://join.slack.com/t/codeforct/shared_invite/enQtNjkyMDMwMTg5NzQ3LTAxMmVjZDUzZTA0M2I5MDBiZTExNTI1OGJiYzdmZTg5MmE4NDU0NDRhOTZiYWU4ZDVjMzg2ODYyZjNjNTk0ODc">Slack channel</a>! General discussion, questions, project chatter, and direct messaging.
 
 <h3>Code</h3>
 <p>GitHub is where we code collaboratively. Find us on GitHub at <a href="https://github.com/codeforct">https://github.com/codeforct</a></p>
