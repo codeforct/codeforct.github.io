@@ -20,7 +20,7 @@ The definition of civic tech can be quite unclear sometimes - here is a great st
 The gist of it is that civic tech is using technology in a creative way to help better the lives of individuals in our communities, whether that is through person-to-person interactions, or via person-to-government interactions.
 
 <h2>Code for America</h2>
-Code for Connecticut is part of the [Brigade Network](https://www.codeforboston.org/about/#) of Code for America. Learn more about [Code for America](https://www.codeforamerica.org/).
+Code for Connecticut is part of the [Brigade Network](https://brigade.codeforamerica.org/about) of Code for America. Learn more about [Code for America](https://www.codeforamerica.org/).
 
 <h2>How We Work</h2>
 We'll be meeting up regularly to talk about techology, design, policy, our communities, and more. We collaborate within our community and with other communities worldwide on [GitHub](https"//github.com/codeforct).
