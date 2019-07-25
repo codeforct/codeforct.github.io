@@ -20,5 +20,5 @@ Join us on our <a href="https://join.slack.com/t/codeforct/shared_invite/enQtNjk
 <p>GitHub is where we code collaboratively. Find us on GitHub at <a href="https://github.com/codeforct">https://github.com/codeforct</a></p>
 
 <h3>Meetups</h3>
-<p>Our in person meetups will be posted on <a href="https://www.meetup.com/Tech-Talent-South-Hartford">Meetup</a>. Please sign up to get notified of our events.</p>
+<p>Our in person meetups will be posted on <a href="https://www.meetup.com/Code-for-Connecticut">Meetup</a>. Please sign up to get notified of our events.</p>
 
