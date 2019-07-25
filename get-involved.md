@@ -13,14 +13,12 @@ use-site-title: true
 
 <h2>Ways to connect</h2>
 
+<h3>Slack</h3>
+Join us on our [Slack channel](https://join.slack.com/t/codeforct/shared_invite/enQtNjkyMDMwMTg5NzQ3LTAxMmVjZDUzZTA0M2I5MDBiZTExNTI1OGJiYzdmZTg5MmE4NDU0NDRhOTZiYWU4ZDVjMzg2ODYyZjNjNTk0ODc)! General discussion, questions, project chatter, and direct messaging.
+
 <h3>Code</h3>
 <p>GitHub is where we code collaboratively. Find us on GitHub at <a href="https://github.com/codeforct">https://github.com/codeforct</a></p>
 
 <h3>Meetups</h3>
 <p>Our in person meetups will be posted on <a href="https://www.meetup.com/Tech-Talent-South-Hartford">Meetup</a>. Please sign up to get notified of our events.</p>
-<iframe width="244" height="480" src="https://www.meetup.com/Tech-Talent-South-Hartford" frameborder="0" scrolling="no" style="margin-bottom: -200px"></iframe>
 
-<h3>Social Media</h3>
-<p>Twitter: <a href="https://twitter.com/CodeForCT">@CodeForCT</a><br>
-Facebook: <a href="https://www.facebook.com/CodeForCT">CodeForCT</a><br>
-Instagram: <a href="https://instagram.com/CodeForCT">CodeForCT</a><br></p>
