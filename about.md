@@ -23,4 +23,4 @@ The gist of it is that civic tech is using technology in a creative way to help 
 Code for Connecticut is part of the [Brigade Network](https://brigade.codeforamerica.org/about) of Code for America. Learn more about [Code for America](https://www.codeforamerica.org/).
 
 <h2>How We Work</h2>
-We'll be meeting up regularly to talk about techology, design, policy, our communities, and more. We collaborate within our community and with other communities worldwide on [GitHub](https"//github.com/codeforct).
+We'll be meeting up regularly to talk about techology, design, policy, our communities, and more. We collaborate within our community and with other communities worldwide on [GitHub](https://github.com/codeforct).
