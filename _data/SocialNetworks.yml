@@ -38,8 +38,13 @@ email:
 
 linkedin:
   name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/"
+  baseURL: "https://linkedin.com/company/"
   icon: "fa-linkedin"
+
+slack:
+  name: "Slack"
+  baseURL: "https://join.slack.com/"
+  icon: "fa-slack"
 
 xing:
   name: "Xing"
