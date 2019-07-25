@@ -4,27 +4,22 @@ title: About Code for Connecticut
 subtitle: 
 ---
 
-Code for Connecticut is a <a href="https://brigade.codeforamerica.org/about">Code for America Brigade</a>, a group of volunteers that bring community members together to help government work better for the people. 
+<h2>What is Code for Connecticut?</h2>
+Code for Connecticut is a volunteer Civic Technology meetup. We are part of the [Code for America Brigade network](http://www.codeforamerica.org/brigade/about), and are made up of developers, designers, data geeks, citizen activists, and many others who use creative technology to solve civic and social problems.
 
-Currently, there are 70+ Brigades across the United States, bringing together community organizers, developers, and designers to use technology to improve the lives of citizens.
-
-<h2>Leadership</h2>
+<h3>Core Team Members:</h3>
 <h5><a href="mailto:codeforct@gmail.com">codeforct@gmail.com</a></h5>
+<h5>Jonathan Payne: Co-Captain</h5>
+<h5>José Padilla: Co-Captain and Delivery Lead</h5>
+<h5>Ellen Last: Community Organizer and Storyteller</h5>
 
-<h3>Co-Captain</h3>
-<div class="bio">
-	<h5>Jonathan Payne</h5>
-	<p>"As a Connecticut native, I'm excited to be founder and co-captain of Code For Connecticut. Last year I began volunteering with Code For BTV. I'm inspired by their enthusiasm and commitment to make the world a better place, which is the hallmark of the Code For America brigade. I will work every day to bring that same spirit to Code For Connecticut."</p>
-	</div>
+<h2>What is Civic Technology?</h2>
+The definition of civic tech can be quite unclear sometimes - here is a great starting point: [#CivicTech Primer: What is “civic tech”](https://medium.com/@grodeska/civictech-primer-what-is-civic-tech-7ea788e766d3#.lr9joeu39)?
 
-<h3>Co-Captain and Delivery Lead</h3>
-<div class="bio">
-	<h5>José Padilla</h5>
-	<p>"As a Connecticut native, I'm excited to be founder and co-captain of Code For Connecticut. Last year I began volunteering with Code For BTV. I'm inspired by their enthusiasm and commitment to make the world a better place, which is the hallmark of the Code For America brigade. I will work every day to bring that same spirit to Code For Connecticut."</p>
-	</div>
+The gist of it is that civic tech is using technology in a creative way to help better the lives of individuals in our communities, whether that is through person-to-person interactions, or via person-to-government interactions.
 
-<h3>Community Organizer and Storyteller</h3>
-<div class="bio">
-	<h5>Ellen Last</h5>
-	<p>"As a Connecticut native, I'm excited to be founder and co-captain of Code For Connecticut. Last year I began volunteering with Code For BTV. I'm inspired by their enthusiasm and commitment to make the world a better place, which is the hallmark of the Code For America brigade. I will work every day to bring that same spirit to Code For Connecticut."</p>
-	</div>
+<h2>Code for America</h2>
+Code for Connecticut is part of the [Brigade Network](https://www.codeforboston.org/about/#) of Code for America. Learn more about [Code for America](https://www.codeforamerica.org/).
+
+<h2>How We Work</h2>
+We'll be meeting up regularly to talk about techology, design, policy, our communities, and more. We collaborate within our community and with other communities worldwide on [GitHub](https"//github.com/codeforct).
