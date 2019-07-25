@@ -13,6 +13,7 @@ Code for Connecticut is a volunteer Civic Technology meetup. We are part of the 
 <h5>José Padilla: Co-Captain and Delivery Lead</h5>
 <h5>Ellen Last: Community Organizer and Storyteller</h5>
 
+
 <h2>What is Civic Technology?</h2>
 The definition of civic tech can be quite unclear sometimes - here is a great starting point: [#CivicTech Primer: What is “civic tech”](https://medium.com/@grodeska/civictech-primer-what-is-civic-tech-7ea788e766d3#.lr9joeu39)?
 
