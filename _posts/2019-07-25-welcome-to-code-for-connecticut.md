@@ -14,5 +14,4 @@ The Code For America network is organized as a safe space for all people, and ev
 
 Finally, Code For Connecticut extends a heartfelt Thank You to Tech Talent Connecticut for promoting this event, to Upward Hartford for hosting, and to all of our participants for joining us to help make Connecticut a better place for everyone!
 
-###
 
