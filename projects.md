@@ -17,6 +17,23 @@ use-site-title: true
 <h5>Potential Partner</h5>
 <a href="https://www.ctriver.org/our-work/source-to-sea-cleanup">Connecticut River Conservancy </a><br>
 <h5>Seed Project</h5>
+<a href="https://github.com/codeforct/expunge-ct">Expunge-CT</a>, forked from Code For BTV's <a href="https://github.com/codeforbtv/expunge-vt">Expunge-VT</a> Chrome extension
+<p>
+A criminal record can interfere with getting a job, housing, food assistance and other aspects of life. Many records are decades old and are eligible to be removed, but the process can be difficult. Even when a person is aware that they have a record that could be expunged, often financial and logistical barriers stand in the way.
+</p>
+<p>This project attempts to help pardon clinics in Connecticut clear records more quickly.</p>
+<h5>Skills Needed</h5>
+<ul>
+	<li>Project Management</li>
+	<li>Design</li>
+	<li>Web Development</li>
+</ul>
+
+
+<h3>Clean Up App</h3>
+<h5>Potential Partner</h5>
+<a href="https://www.ctriver.org/our-work/source-to-sea-cleanup">Connecticut River Conservancy </a><br>
+<h5>Seed Project</h5>
 <a href="http://www.codeforbtv.org/blog/official-green-day-mobile-app">Code For BTV's Green Up app</a> and <a href="https://github.com/codeforbtv/green-up-app">Code For BTV's Green Up Administrator Dashboard</a>
 <p>
 The Source to Sea Cleanup is a yearly trash cleanup of the Connecticut River system all along the four-state watershed (NH, VT, MA, CT) – rivers & streams, shorelines, parks, boat launches, trails and more. Each fall, volunteer group leaders coordinate local cleanup sites where thousands of participants of all ages and abilities spend a few hours picking up trash. We all have a responsibility to solve this trash problem – individuals, manufacturers, businesses, and government. By participating in the Source to Sea Cleanup, you are part of the solution for cleaner rivers.
