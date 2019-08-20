@@ -11,7 +11,8 @@ Code for Connecticut is a volunteer Civic Technology meetup. We are part of the 
 <h5><a href="mailto:codeforct@gmail.com">codeforct@gmail.com</a></h5>
 <h5>Jonathan Payne: Co-Captain</h5>
 <h5>José Padilla: Co-Captain and Delivery Lead</h5>
-<h5>Ellen Last: Community Organizer and Storyteller</h5>
+<h5>Ellen Last: Storyteller</h5>
+<h5>Austin Ross: Community Organizer</h5>
 
 
 <h2>What is Civic Technology?</h2>
