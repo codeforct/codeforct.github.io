@@ -13,9 +13,10 @@ use-site-title: true
 
 <h2>Planned Projects</h2>
 
-<h3>Clean Up App</h3>
-<h5>Potential Partner</h5>
-<a href="https://www.ctriver.org/our-work/source-to-sea-cleanup">Connecticut River Conservancy </a><br>
+<h3>Expunge CT</h3>
+<h5>Potential Partners</h5>
+<a href="https://ctlegal.org/3787-2/">Connecticut Legal Services </a><br> and
+<a href="http://www.connecticutpardonteam.org/">Connecticut Pardon Team </a><br>
 <h5>Seed Project</h5>
 <a href="https://github.com/codeforct/expunge-ct">Expunge-CT</a>, forked from Code For BTV's <a href="https://github.com/codeforbtv/expunge-vt">Expunge-VT</a> Chrome extension
 <p>
