@@ -11,9 +11,68 @@ use-site-title: true
 
 <p>We will follow Code for America's proven model for building services, which you can read about at <a href="https://www.codeforamerica.org/how">CodeForAmerica.org</a>.</p>
 
+<h2>Current Projects</h2>
+
+<h3>Amplify.org</h3>
+<p><a href="https://github.com/codeforct/Amplify.org">GitHub</a></p>
+<h5>Partner</h5>
+<a href="https://amplify.org/">Amplify</a><br>
+
+<p>
+This app helps Amplify.org amplify their web presence and decrease manual hours spent.
+</p>
+<h5>Skills Needed</h5>
+<ul>
+	<li>Project Management</li>
+	<li>Software Development</li>
+</ul>
+
+<h3>Project Mill Rate</h3>
+<p><a href="https://github.com/codeforct/CT-Mill-Rate-Project-Java">GitHub</a></p>
+
+<p>
+The purpose of Project Mill Rate is to extract public municipality mill rate data to extrapolate trends in property taxes of CT. This can perhaps shed light upon cost patterns of the past and future, which can influence our overall lifestyle and financial decisions.
+</p>
+<h5>Skills Needed</h5>
+<ul>
+	<li>Project Management</li>
+	<li>Design</li>
+	<li>Web Development</li>
+	<li>Data Analysis</li>
+</ul>
+
+<h3>SurPlusPlus</h3>
+<p><a href="https://github.com/codeforct/SurPlusPlus">GitHub</a></p>
+
+<p>
+SurPlusPlus is an app that shows exactly when and where there are surpluses of food, clothes, and other important (necessary for living) physical resources to more easily connect the supply and demand of surplus.
+</p>
+<h5>Skills Needed</h5>
+<ul>
+	<li>Project Management</li>
+	<li>Design</li>
+	<li>Web Development</li>
+	<li>Mobile Development</li>
+	<li>Data Analysis</li>
+</ul>
+
+<h3>The Update CT</h3>
+<p><a href="https://github.com/codeforct/The-update-ct">GitHub</a></p>
+
+<p>
+The Update CT will track past, current, and proposed legislation in Connecticut to identify, and ultimately, to predict, the effects of legislation in the state.
+</p>
+<h5>Skills Needed</h5>
+<ul>
+	<li>Project Management</li>
+	<li>Design</li>
+	<li>Web Development</li>
+	<li>Data Analysis</li>
+</ul>
+
 <h2>Planned Projects</h2>
 
-<h3>Expunge CT</h3>
+<h3>Clean Slate</h3>
 <h5>Potential Partners</h5>
 <a href="https://ctlegal.org/3787-2/">Connecticut Legal Services </a><br> and
 <a href="http://www.connecticutpardonteam.org/">Connecticut Pardon Team </a><br>
