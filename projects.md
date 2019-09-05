@@ -24,7 +24,8 @@ This app helps Amplify.org amplify their web presence and decrease manual hours 
 <h5>Skills Needed</h5>
 <ul>
 	<li>Project Management</li>
-	<li>Software Development</li>
+	<li>Web Development</li>
+	<li>Data Analysis</li>
 </ul>
 
 <h3>Project Mill Rate</h3>
