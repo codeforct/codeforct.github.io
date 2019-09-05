@@ -12,7 +12,7 @@ The Code For Connecticut Kick-Off Meeting was a great success, thanks to all our
 Code For Connecticut announced Austin Ross as our new Community Organizer. Austin brings a wealth of knowledge from his engineering background and great enthuiasm to the brigade!
 
 ### [Projects](https://codeforconnecticut.org/projects)  
-
+  
 #### Amplify.org
 This app helps Amplify.org amplify their web presence and decrease manual hours spent.  
 
@@ -26,7 +26,7 @@ SurPlusPlus is an app that shows exactly when and where there are surpluses of f
 The Update CT will track past, current, and proposed legislation in Connecticut to identify, and ultimately, to predict, the effects of legislation in the state.  
 
 ### Upcoming Events  
-
+  
 #### [National Day of Civic Hacking](https://www.codeforamerica.org/events/national-day-of-civic-hacking-2019)  
 
 Join us on September 21st for the 7th Annual National Day of Civic Hacking, which brings together civic leaders, public servants, designers, coders, and engaged citizens to partner with local government and community groups to tackle some of our toughest challenges.  
