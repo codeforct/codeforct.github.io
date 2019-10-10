@@ -28,20 +28,6 @@ This app helps Amplify.org amplify their web presence and decrease manual hours 
 	<li>Data Analysis</li>
 </ul>
 
-<h3>Project Mill Rate</h3>
-<p><a href="https://github.com/codeforct/CT-Mill-Rate-Project-Java">GitHub</a></p>
-
-<p>
-The purpose of Project Mill Rate is to extract public municipality mill rate data to extrapolate trends in property taxes of CT. This can perhaps shed light upon cost patterns of the past and future, which can influence our overall lifestyle and financial decisions.
-</p>
-<h5>Skills Needed</h5>
-<ul>
-	<li>Project Management</li>
-	<li>Design</li>
-	<li>Web Development</li>
-	<li>Data Analysis</li>
-</ul>
-
 <h3>SurPlusPlus</h3>
 <p><a href="https://github.com/codeforct/SurPlusPlus">GitHub</a></p>
 
