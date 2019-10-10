@@ -13,6 +13,20 @@ use-site-title: true
 
 <h2>Current Projects</h2>
 
+<h3>Know Your Rights Connecticut</h3>
+<p><a href="https://github.com/codeforct/KnowYourRights">GitHub</a></p>
+<h5>Website</h5>
+<a href="https://kyr-ct.netlify.com/">kyr-ct.netlify.com</a><br>
+
+<p>
+While we are all entitled to certain rights, particularly when encountering the criminal justice system and record clearance process, many times we don’t know what they are. Easy access to this information that is readily available and user-friendly is a need across the country.
+</p>
+<h5>Skills Needed</h5>
+<ul>
+	<li>Project Management</li>
+	<li>Web Development</li>
+</ul>
+
 <h3>Amplify.org</h3>
 <p><a href="https://github.com/codeforct/Amplify.org">GitHub</a></p>
 <h5>Partner</h5>
