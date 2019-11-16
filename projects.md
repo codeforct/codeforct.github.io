@@ -27,10 +27,10 @@ While we are all entitled to certain rights, particularly when encountering the 
 	<li>Web Development</li>
 </ul>
 
-<h3>Amplify.org</h3>
+<h3>AmplifyCT.org</h3>
 <p><a href="https://github.com/codeforct/Amplify.org">GitHub</a></p>
 <h5>Partner</h5>
-<a href="https://amplify.org/">Amplify</a><br>
+<a href="https://amplifyct.org/">Amplify</a><br>
 
 <p>
 This app helps Amplify.org amplify their web presence and decrease manual hours spent.
