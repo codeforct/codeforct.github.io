@@ -8,9 +8,9 @@
 	  {{ site.time | date: '%Y' }}
 	{% endif %}
 	
-    {% if site.url-pretty %}
+    {% if site.data.config.url-pretty %}
     &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-    <a href="{{ site.url }}">{{ site.url-pretty }}</a>
+    <a href="{{ site.data.config.url }}">{{ site.data.config.url-pretty }}</a>
     {% endif %}	
   </div>
 </footer>
