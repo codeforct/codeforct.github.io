@@ -47,9 +47,15 @@ hr.small {
   border-radius: 3px;
 }
 
-.main-content {
-  padding-top: 80px;
+main,
+article[role="main"] {
+  padding-top: 42px;
 }
+
+.intro-header + main {
+  padding-top: 0;
+}
+
 @media only screen and (min-width: 768px) {
   .main-content {
     padding-left: env(safe-area-inset-left);
@@ -61,6 +67,21 @@ hr.small {
 .main-explain-area {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
+}
+
+.skip-nav {
+  background-color: {{ site.navbar-col }};
+  color: {{ site.navbar-text-col }};
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding: 1rem;
+  position: absolute;
+  left: -9999px;
+}
+
+.skip-nav:focus {
+  left: 20px;
+  top: 0;
+  z-index: 1;
 }
 
 .hideme {
@@ -436,7 +457,7 @@ footer .theme-by {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 80px 0 20px;
+  margin: 80px 0 0;
   position: relative;
 }
 .intro-header.big-img {
@@ -516,7 +537,8 @@ footer .theme-by {
 }
 @media only screen and (min-width: 768px) {
   .intro-header {
-    margin-top: 130px;
+    /* margin-top: 130px; */
+    margin-top: 160px;
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
