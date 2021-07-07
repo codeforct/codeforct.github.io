@@ -3,7 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
 
-  <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <title>{% if page.use-site-title %}{{ site.data.config.title }} {{ site.title-separator }} {{ site.data.config.description }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.data.config.title }}{% endif %}</title>
 
   <meta name="author" content="{{ site.author.name }}" />
 
@@ -54,8 +54,8 @@
   {% endif %}
 
     <!-- Facebook OpenGraph tags -->
-  {% if site.fb_app_id %}
-  <meta property="fb:app_id" content="{{ site.fb_app_id }}" />
+  {% if site.data.config.fb_app_id %}
+  <meta property="fb:app_id" content="{{ site.data.config.fb_app_id }}" />
   {% endif %}
 
   {% if page.meta-title %}
@@ -119,11 +119,11 @@
   <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
   {% endif %}
 
-  {% if site.matomo %}
+  {% if site.data.config.matomo %}
   {% include matomo.html %}
   {% endif %}
 
-  {% if page.comments and site.staticman.repository and site.staticman.branch %}
+  {% if page.comments and site.data.config.staticman.repository and site.data.config.staticman.branch %}
   <!-- Staticman -->
   <link rel="stylesheet" href="{{ "/css/staticman.css" | prepend: site.baseurl }}" />
   {% endif %}

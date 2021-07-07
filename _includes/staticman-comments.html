@@ -1,4 +1,4 @@
-{% if site.staticman.repository and site.staticman.branch %}
+{% if site.data.config.staticman.repository and site.data.config.staticman.branch %}
   <div class="page__comments">
     <!-- Start static comments -->
     <div class="js-comments">
@@ -20,7 +20,7 @@
     <div class="page__comments-form">
       <h3 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_label | default: "Leave a Comment" }}</h3>
       <p class="small">{{ site.data.ui-text[site.locale].comment_form_info | default: "Your email address will not be published. Required fields are marked" }} <span class="required">*</span></p>
-      <form id="new_comment" class="page__comments-form js-form form" method="post" action="{{ site.staticman.endpoint | default: 'https://staticman3.herokuapp.com/v3/entry/github/' }}{{ site.staticman.repository }}/{{ site.staticman.branch }}/comments">
+      <form id="new_comment" class="page__comments-form js-form form" method="post" action="{{ site.data.config.staticman.endpoint | default: 'https://staticman3.herokuapp.com/v3/entry/github/' }}{{ site.data.config.staticman.repository }}/{{ site.data.config.staticman.branch }}/comments">
         <div class="form-group">
           <label for="comment-form-message">{{ site.data.ui-text[site.locale].comment_form_comment_label | default: "Comment" }} <small class="required">*</small></label><br>
           <textarea type="text" rows="12" cols="36" id="comment-form-message" name="fields[message]" tabindex="1"></textarea>
@@ -43,17 +43,17 @@
           <input type="hidden" name="options[slug]" value="{{ page.slug }}">
           <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
           <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
-          {% if site.staticman.reCaptcha.siteKey %}<input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.staticman.reCaptcha.siteKey }}">{% endif %}
-          {% if site.staticman.reCaptcha.secret %}<input type="hidden" name="options[reCaptcha][secret]" value="{{ site.staticman.reCaptcha.secret }}">{% endif %}
+          {% if site.data.config.staticman.reCaptcha.siteKey %}<input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.data.config.staticman.reCaptcha.siteKey }}">{% endif %}
+          {% if site.data.config.staticman.reCaptcha.secret %}<input type="hidden" name="options[reCaptcha][secret]" value="{{ site.data.config.staticman.reCaptcha.secret }}">{% endif %}
         </div>
         <!-- Start comment form alert messaging -->
         <p class="hidden js-notice">
           <strong class="js-notice-text"></strong>
         </p>
         <!-- End comment form alert messaging -->
-        {% if site.staticman.reCaptcha.siteKey %}
+        {% if site.data.config.staticman.reCaptcha.siteKey %}
           <div class="form-group">
-            <div class="g-recaptcha" data-sitekey="{{ site.staticman.reCaptcha.siteKey }}"></div>
+            <div class="g-recaptcha" data-sitekey="{{ site.data.config.staticman.reCaptcha.siteKey }}"></div>
           </div>
         {% endif %}
         <div class="form-group">
@@ -63,7 +63,7 @@
     </div>
     <!-- End new comment form -->
     <!-- Load reCaptcha if site key is set -->
-    {% if site.staticman.reCaptcha.siteKey %}
+    {% if site.data.config.staticman.reCaptcha.siteKey %}
       <script async src="https://www.google.com/recaptcha/api.js"></script>
     {% endif %}
   </div>
