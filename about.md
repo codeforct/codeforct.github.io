@@ -8,11 +8,13 @@ subtitle:
 Code for Connecticut is a volunteer Civic Technology meetup. We are part of the [Code for America Brigade network](http://www.codeforamerica.org/brigade/about), and are made up of developers, designers, data geeks, citizen activists, and many others who use creative technology to solve civic and social problems.
 
 <h3>Core Team Members:</h3>
-<h5><a href="mailto:info@codeforconnecticut.org">info@codeforconnecticut.org</a></h5>
-<h5><a href="mailto:jonathan@codeforconnecticut.org">Jonathan Payne</a></h5>
-<h5><a href="mailto:octave@codeforconnecticut.org">Octave Muhirwa</a></h5>
-<h5><a href="mailto:lionel@codeforconnecticut.org">Lionel Beato</a></h5>
-<h5><a href="mailto:jose@codeforconnecticut.org">José Padilla</a></h5>
+<ul style="font-weight: bold;">
+<li><a href="mailto:info@codeforconnecticut.org">info@codeforconnecticut.org</a></li>
+<li><a href="mailto:jonathan@codeforconnecticut.org">Jonathan Payne</a></li>
+<li><a href="mailto:octave@codeforconnecticut.org">Octave Muhirwa</a></li>
+<li><a href="mailto:lionel@codeforconnecticut.org">Lionel Beato</a></li>
+<li><a href="mailto:jose@codeforconnecticut.org">José Padilla</a></li>
+</ul>
 
 
 <h2>What is Civic Technology?</h2>
