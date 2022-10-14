@@ -9,10 +9,10 @@ Code for Connecticut is a volunteer Civic Technology meetup. We are part of the 
 
 <h3>Core Team Members:</h3>
 <h5><a href="mailto:info@codeforconnecticut.org">info@codeforconnecticut.org</a></h5>
-<h5><a href="mailto:jonathan@codeforconnecticut.org">Jonathan Payne</a>: Co-Captain</h5>
-<h5><a href="mailto:jose@codeforconnecticut.org">José Padilla</a>: Co-Captain and Delivery Lead</h5>
-<h5><a href="mailto:ellen@codeforconnecticut.org">Ellen Last</a>: Storyteller</h5>
-<h5><a href="mailto:austin@codeforconnecticut.org">Austin Ross</a>: Community Organizer</h5>
+<h5><a href="mailto:jonathan@codeforconnecticut.org">Jonathan Payne</a></h5>
+<h5><a href="mailto:octave@codeforconnecticut.org">Octave Muhirwa</a></h5>
+<h5><a href="mailto:lionel@codeforconnecticut.org">Lionel Beato</a></h5>
+<h5><a href="mailto:jose@codeforconnecticut.org">José Padilla</a></h5>
 
 
 <h2>What is Civic Technology?</h2>
