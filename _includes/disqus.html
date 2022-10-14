@@ -1,8 +1,8 @@
-{%- if site.disqus -%}
+{%- if site.data.config.disqus -%}
 <div class="comments">
     <div id="disqus_thread"></div>
     <script type="text/javascript">
-        var disqus_shortname = '{{ site.disqus }}';
+        var disqus_shortname = '{{ site.data.config.disqus }}';
         /* ensure that pages with query string get the same discussion */
             var url_parts = window.location.href.split("?");
             var disqus_url = url_parts[0];
