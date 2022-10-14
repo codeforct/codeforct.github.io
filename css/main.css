@@ -747,10 +747,7 @@ td.gutter {
 /* Fix .navbar-toggle */
 
 .navbar-default button.navbar-toggle:focus,
-.navbar-default button.navbar-toggle:hover {
-  background-color: initial;
-}
-
+.navbar-default button.navbar-toggle:hover,
 .navbar-default button.navbar-toggle[aria-expanded="true"] {
   background-color: rgba(0, 0, 0, 0.2);
 }
